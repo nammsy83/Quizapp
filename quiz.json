@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "correct_answer": "Anti-mass spectrometer",
+      "incorrect_answers": [
+        "Oscillation generator",
+        "Dark fusion reactor",
+        "Anti-mass spectrometer"
+      ],
+      "question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?"
+    },
+    {
+      "correct_answer": "Dark Souls 2",
+      "incorrect_answers": [
+        "Demon Souls",
+        "Dark Souls",
+        "Dark Souls 3",
+        "Dark Souls 2"
+      ],
+      "question": "Which souls game was not directed by Hidetaka Miyazaki?"
+    },
+    {
+      "correct_answer": "Charcoal",
+      "incorrect_answers": [
+        "Coal",
+        "Wheat",
+        "String",
+        "Charcoal"
+      ],
+      "question": "In vanilla Minecraft, which of the following cannot be made into a block?"
+    },
+    {
+      "correct_answer": "Compton",
+      "incorrect_answers": [
+        "Detroit",
+        "New York",
+        "Baltimore",
+        "Compton"
+      ],
+      "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?"
+    },
+    {
+      "correct_answer": "An Australian State",
+      "incorrect_answers": [
+        "A flavor of Ben and Jerry&#039;s ice-cream",
+        "A Psychological Disorder",
+        "The Name of a Warner Brothers Cartoon Character",
+        "An Australian State"
+      ],
+      "question": "What is Tasmania?"
+    }
+  ]
+}
